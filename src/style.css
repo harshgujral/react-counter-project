@@ -1,0 +1,24 @@
+h1,
+p {
+  font-family: Lato;
+}
+.big {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.main {
+}
+.btn {
+  display: flex;
+}
+button {
+  padding: 10px;
+  margin: 10px;
+}
+h2 {
+  font-size: 40px;
+}
